@@ -1,0 +1,2 @@
+# MoonWarriors
+使用js-binding绑定sqlite3接口,存储对应的中英水果单词,解决乱码问题(cocos2d-x默认是以utf8显示),改变飞机的攻击方式,原来的攻击改为冻结5秒,下方的三个按钮发射相应英文导弹,从而摧毁相应中文单词的敌机.使用CCLog调试,TexturePackerGUI制作纹理贴图
